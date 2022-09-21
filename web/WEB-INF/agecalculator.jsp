@@ -19,6 +19,6 @@
             <input type="submit" value="Age next birthday">
         </form>
         <div>${age}</div>
-
+        <a href="${pageContext.request.contextPath}/arithmetic">Arithmetic Calculator</a>
     </body>
 </html>
